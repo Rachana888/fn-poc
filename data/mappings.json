@@ -1,0 +1,14 @@
+{
+  "mvm-poc/hello": {
+    "microvm_id": "01a12ff4-3187-7747-932e-191d9055e21d",
+    "checkpoint_id": "01a12ff0-5f26-782a-99cc-5675aab59739",
+    "image_id": "01a12bea-3b79-7b74-a69e-04b0ba5d0b32",
+    "kind": "go",
+    "cell": "sfo3-staging",
+    "lifecycle": "EPHEMERAL",
+    "created_at": "2026-10-11T17:30:40Z",
+    "previous_microvm_id": "01a12c04-4869-72fa-a8ee-2edcd61301d4",
+    "previous_checkpoint_id": "01a12bff-730a-70b8-a2c9-efa7d8c5040d",
+    "updated_at": "2026-10-12T11:50:00Z"
+  }
+}
